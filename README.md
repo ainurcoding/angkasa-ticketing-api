@@ -1,5 +1,5 @@
 
-# mama_recipe_app
+# ankasa_app
 <div align="center"><img src="https://github.com/ainurcoding/angkasa-ticketing-app/blob/master/src/assets/logo.svg" height="50" width="50"/></div>
 <div align='center'><a href='https://github.com/ainurcoding/angkasa-ticketing-app'> >> Visit Frontend Repository << </a></div>
 
